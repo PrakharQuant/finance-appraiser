@@ -182,3 +182,5 @@ Contributions welcome! Areas for improvement:
 - Monte Carlo simulation
 - Export/import study progress
 - Multi-language support
+
+# fix: trigger Render redeploy
