@@ -8,7 +8,7 @@ interface AnswerRecord {
   category: string;
 }
 
-export default function ExamSimulator() {
+export default function Flashcards() {
   const [examStarted, setExamStarted] = useState(false);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [currentQ, setCurrentQ] = useState(0);
